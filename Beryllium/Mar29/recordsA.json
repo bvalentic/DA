@@ -1,0 +1,60 @@
+{
+    "prompt": "Give me a JSON format to categorize vinyl records. Show some samples using 6 or more fields to describe records, including title, artist, year, and record condition.",
+        "category": "Vinyl Records",
+        "records": [
+        {
+        "title": "The Velvet Underground & Nico",
+        "artist": "The Velvet Underground",
+        "year": 1967,
+        "condition": "Excellent",
+        "genre": "Rock",
+        "price": 150.00,
+        "label": "Reprise Records"
+        },
+        {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "artist": "The Beatles",
+        "year": 1967,
+        "condition": "Very Good",
+        "genre": "Rock",
+        "price": 120.00,
+        "label": "Parlophone"
+        },
+        {
+        "title": "Kind of Blue",
+        "artist": "Miles Davis",
+        "year": 1959,
+        "condition": "Near Mint",
+        "genre": "Jazz",
+        "price": 100.00,
+        "label": "Columbia Records"
+        },
+        {
+        "title": "The Joshua Tree",
+        "artist": "U2",
+        "year": 1987,
+        "condition": "Good",
+        "genre": "Rock",
+        "price": 80.00,
+        "label": "Island Records"
+        },
+        {
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "year": 1982,
+        "condition": "Very Good Plus",
+        "genre": "Pop",
+        "price": 70.00,
+        "label": "Epic Records"
+        },
+        {
+        "title": "Back in Black",
+        "artist": "AC/DC",
+        "year": 1980,
+        "condition": "Good",
+        "genre": "Rock",
+        "price": 60.00,
+        "label": "Albert Productions"
+        }
+        ]
+}

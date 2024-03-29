@@ -1,0 +1,50 @@
+[
+    {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "price": 10.99,
+    "publish_date": "1925-04-10",
+    "description": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion for the glamorous former debutante Daisy Buchanan.",
+    "isbn": "9780743273565",
+    "number_of_pages": 180,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bIOJg6XmL._SX322_BO1,204,203,200_.jpg",
+    "in_stock": true
+    },
+    {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "price": 12.99,
+    "publish_date": "1960-07-11",
+    "description": "To Kill a Mockingbird is a novel by American author Harper Lee. It was published in 1960 and was later adapted into an Academy Award-winning film of the same name in 1962. The story centers around Scout, a young girl who grows up in the Southern town of Maycomb, Alabama, during the 1930s. Scout's father, Atticus Finch, is a lawyer who defends a black man accused of raping a white woman.",
+    "isbn": "9780060935467",
+    "number_of_pages": 336,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51z1f4SCLgL._SX322_BO1,204,203,200_.jpg",
+    "in_stock": true
+    },
+    {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "price": 9.99,
+    "publish_date": "1951-07-16",
+    "description": "The Catcher in the Rye is a 1951 novel by J. D. Salinger. Originally published for adults, the novel has become a common part of high school and college curricula throughout the English-speaking world. The novel's protagonist, Holden Caulfield, is a disillusioned and cynical 16-year-old boy who spends much of the novel's duration wandering through New York City.",
+    "isbn": "9780316769481",
+    "number_of_pages": 224,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bIOJg6XmL._SX322_BO1,204,203,200_.jpg",
+    "in_stock": true
+    },
+    {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "price": 14.99,
+    "publish_date": "1997-09-01",
+    "description": "Harry Potter and the Sorcerer's Stone is the first novel in the Harry Potter series by J. K. Rowling. The book follows Harry Potter, a young wizard who discovers his magical abilities while attending Hogwarts School of Witchcraft and Wizardry. With the help of his friends, Hermione Granger and Ron Weasley, Harry battles the evil wizard Voldemort, who aims to destroy him.",
+    "isbn": "9780439136365",
+    "number_of_pages": 376,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51bIOJg6XmL._SX322_BO1,204,203,200_.jpg",
+    "in_stock": true
+    }
+]

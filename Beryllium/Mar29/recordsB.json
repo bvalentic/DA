@@ -1,0 +1,69 @@
+[
+    {
+      "recordID": "123",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "recordCondition": "Mint",
+      "genre": "Pop",
+      "format": "LP",
+      "country": "USA",
+      "label": "Epic"
+    },
+    {
+      "recordID": "456",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "year": 1980,
+      "recordCondition": "Very Good",
+      "genre": "Rock",
+      "format": "LP",
+      "country": "Australia",
+      "label": "Atlantic"
+    },
+    {
+      "recordID": "789",
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "year": 1959,
+      "recordCondition": "Near Mint",
+      "genre": "Jazz",
+      "format": "LP",
+      "country": "USA",
+      "label": "Columbia"
+    },
+    {
+      "recordID": "1011",
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "year": 1973,
+      "recordCondition": "Excellent",
+      "genre": "Progressive Rock",
+      "format": "LP",
+      "country": "UK",
+      "label": "Harvest"
+    },
+    {
+      "recordID": "1213",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "year": 1969,
+      "recordCondition": "Very Good Plus",
+      "genre": "Rock",
+      "format": "LP",
+      "country": "UK",
+      "label": "Apple"
+    },
+    {
+      "recordID": "1415",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "year": 1971,
+      "recordCondition": "Good",
+      "genre": "Soul",
+      "format": "LP",
+      "country": "USA",
+      "label": "Tamla"
+    }
+  ]
+  

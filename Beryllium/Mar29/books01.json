@@ -1,0 +1,58 @@
+
+{
+    "prompt": "A bookstore needs a JSON format for describing the inventory. Use about 10 fields to describe books, including title, author, genre, and description. Give 4 examples of books.",
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "description": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion for the beautiful former debutante Daisy Buchanan.",
+        "price": 10.99,
+        "publish_date": "1925-04-10",
+        "in_stock": true,
+        "number_of_pages": 180,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51Rt-AKW4WL._AC_UL320_SR218,320_.jpg",
+        "ISBN": "9780743273565",
+        "language": "English"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "description": "To Kill a Mockingbird is a novel by American author Harper Lee. The novel was published in 1960 and was immediately successful. It was translated into many languages and has sold over 40 million copies worldwide. The story is set in the fictional town of Maycomb, Alabama, during the 1930s, and follows the coming-of-age of Scout Finch, the youngest of three children of Atticus Finch, a lawyer.",
+        "price": 9.99,
+        "publish_date": "1960-07-11",
+        "in_stock": true,
+        "number_of_pages": 336,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51y2X33jvRL._AC_UL320_SR218,320_.jpg",
+        "ISBN": "9780060935467",
+        "language": "English"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "genre": "Fiction",
+        "description": "The Catcher in the Rye is a 1951 novel by J. D. Salinger. The novel follows Holden Caulfield, a disillusioned, 16-year-old boy who has been expelled from several schools and is spending a Christmas vacation in New York City.",
+        "price": 8.99,
+        "publish_date": "1951-07-16",
+        "in_stock": true,
+        "number_of_pages": 224,
+        "image_url": "https://m.media-amazon.com/images/I/51B1361jVUL._AC_UL320_SR218,320_.jpg",
+        "ISBN": "9780316769177",
+        "language": "English"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "description": "Nineteen Eighty-Four, often published as 1984, is a dystopian social science fiction novel by English novelist George Orwell. It was published in 1949 as a novel of the future, but it became popular in the 1950s during the Cold War with the Soviet Union as a cautionary tale about an authoritarian society.",
+        "price": 12.99,
+        "publish_date": "1949-06-08",
+        "in_stock": true,
+        "number_of_pages": 328,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/51MU5P3T9LL._AC_UL320_SR218,320_.jpg",
+        "ISBN": "9780451524935",
+        "language": "English"
+      }
+    ]
+  }
