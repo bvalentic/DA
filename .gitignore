@@ -1,2 +1,12 @@
+## Generic
+obj
+
+## Node
 node_modules
 package-lock.json
+
+## VS/Code
+.vs
+
+## Python
+__pycache__
