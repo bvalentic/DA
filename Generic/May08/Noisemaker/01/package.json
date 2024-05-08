@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^12.4.2",
+    "plotly.js": "^2.32.0"
+  }
+}
