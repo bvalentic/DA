@@ -1,0 +1,8 @@
+{
+  "name": "transform-string",
+  "version": "1.0.0",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  },
+  "type":"module"
+}

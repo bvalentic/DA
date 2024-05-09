@@ -1,0 +1,13 @@
+{
+  "name": "numerical-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "euler-plotted.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chartjs-node-canvas": "^4.1.6",
+    "fs": "^0.0.1-security"
+  }
+}

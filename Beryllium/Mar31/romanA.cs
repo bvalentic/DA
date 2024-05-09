@@ -14,3 +14,7 @@ public static int RomanToInt(string roman)
     }
     return result;
 }
+
+string romanNumeral = "MCMXCIV";
+int integerValue = RomanToInt(romanNumeral);
+Console.WriteLine(integerValue); // Output: 1994

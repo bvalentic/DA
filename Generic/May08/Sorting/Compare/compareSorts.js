@@ -85,12 +85,12 @@ function compareTimes(times1, times2) {
 
 const tinyArray1 = generateRandomArray(8, 10);         // 8 random ints between 0 and 10
 const tinyArray2 = generateRandomArray(8);             // 8 random ints between 0 and 100
-const smallArray1 = generateRandomArray(64, 50);       // 64 random ints between 0 and 50
-const smallArray2 = generateRandomArray(64);           // 64 random ints between 0 and 100
-const medArray1 = generateRandomArray(256, 1000);      // 256 random ints between 0 and 1,000
-const medArray2 = generateRandomArray(256, 1000);      // 256 random ints between 0 and 1,000
-const largeArray1 = generateRandomArray(2048, 10000);  // 2048 random ints between 0 and 10,000
-const largeArray2 = generateRandomArray(2048, 100000); // 2048 random ints between 0 and 100,000
+const smallArray1 = generateRandomArray(64);           // 64 random ints between 0 and 100
+const smallArray2 = generateRandomArray(64, 1000);     // 64 random ints between 0 and 1,000
+const medArray1 = generateRandomArray(512, 1000);      // 512 random ints between 0 and 1,000
+const medArray2 = generateRandomArray(512, 10000);     // 512 random ints between 0 and 10,000
+const largeArray1 = generateRandomArray(4096, 10000);  // 4096 random ints between 0 and 10,000
+const largeArray2 = generateRandomArray(4096, 100000); // 4096 random ints between 0 and 100,000
 
 const arrayList = [
     tinyArray1, 

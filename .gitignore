@@ -11,3 +11,5 @@ package-lock.json
 
 ## Python
 __pycache__
+
+*.png
