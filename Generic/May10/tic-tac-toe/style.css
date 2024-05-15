@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 300px;
+    height: 300px;
+    gap: 0; /* Set gap to 0 to remove the gap between cells */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.cell {
+    background-color: #eee;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    border: 1px solid #000; /* Add a thick border to each cell */
+}
+
+.cell:nth-child(-n+3) {
+    border-top: none; /* Remove top border for the first row */
+}
+
+.cell:nth-child(3n+1) {
+    border-left: none; /* Remove left border for the first column */
+}
+
+.cell:nth-child(3n+3) {
+    border-right: none; /* Remove right border for the third column */
+}
+
+.cell:last-child, .cell:nth-last-child(2), .cell:nth-last-child(3) {
+    border-bottom: none; /* Remove bottom border for the last row */
+}
+
+.cell:hover {
+    background-color: #ccc;
+}
